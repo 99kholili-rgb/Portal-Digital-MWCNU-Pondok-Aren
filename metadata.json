@@ -1,0 +1,6 @@
+{
+  "name": "Portal Digital NU",
+  "description": "Aplikasi portal digital dan dashboard terintegrasi warga Nahdlatul Ulama, dengan layanan zakat, kartu anggota digital, tanya kyai, fatwa, agenda, dan koperasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
